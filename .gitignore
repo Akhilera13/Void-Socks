@@ -1,0 +1,14 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ / Eclipse project files
+.idea/
+*.iml
+*.classpath
+*.project
+
+# Ignore OS files
+.DS_Store
+
+# Output logs
+*.log
